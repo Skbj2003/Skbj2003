@@ -6,10 +6,10 @@ I'm an **Undergraduate in BSc Artificial Intelligence at the University of Morat
 
 ### 📈 What I’m Working On
 
-* **AI/ML Solutions
-* **Academic Projects
-* **Competitive Programming
-* **Software Engineering (SE)
+* AI/ML Solutions
+* Academic Projects
+* Competitive Programming
+* Software Engineering (SE)
 ---
 
 ---
