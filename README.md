@@ -9,7 +9,7 @@ I'm an **Undergraduate in BSc Artificial Intelligence at the University of Morat
 * AI/ML Solutions
 * Academic Projects
 * Competitive Programming
-* Software Engineering (SE)
+* Agentic AI
 ---
 
 ---
